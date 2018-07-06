@@ -1,2 +1,2 @@
 # week-4-game
-Crystal Collector Game
+A game where each crystal is giving a hidden value and you have to use their values to add up to a given number
